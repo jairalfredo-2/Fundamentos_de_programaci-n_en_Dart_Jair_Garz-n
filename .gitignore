@@ -1,0 +1,5 @@
+# Archivos generados por Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock

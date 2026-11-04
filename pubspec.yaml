@@ -1,0 +1,9 @@
+name: fundamentos_dart_ea1
+description: >-
+  EA1 - Fundamentos de programación en Dart. Lógica del módulo de
+  verificación de modelos de análisis (lista de chequeo digital).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
